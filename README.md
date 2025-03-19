@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Miłosz</h1>
-<h3 align="center">A Computer Science student @ Silesian University of Technology</h3><br>
+<h3 align="center">Engineer, graduated from Silesian University of Technology</h3><br>
 
-- 🛡️ I’m currently preparing to defend **my Bachelor’s Thesis (Modular, 8-bit computer based on a Z80 microprocessor derivative)** 
+- 🛡️ Recently defended **my Thesis (Modular, 8-bit computer based on a Z80 microprocessor derivative)** 
 
 - 👨‍💻 My projects are available through my GitHub profile (you are here)
 
 - 📫 You can reach me here: **mitom2@op.pl**
 
-- ⚡ More about me: I am passionate about 🖥️computers, 🌌cosmos and 👨‍🚒firefighting (volunteer since '21).
+- ⚡ More about me: I am passionate about 🖥️computers, 🌌cosmos and 👨‍🚒firefighting (volunteer since 2021).
 
 ---
 
